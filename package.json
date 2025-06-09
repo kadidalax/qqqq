@@ -1,0 +1,23 @@
+{
+  "name": "qqqq",
+  "version": "1.0.0",
+  "description": "极速导航 - Cloudflare Workers导航站",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "navigation",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+} 

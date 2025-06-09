@@ -1,0 +1,8 @@
+name = "qqqq"
+main = "index.js"
+compatibility_date = "2023-11-15"
+
+[[kv_namespaces]]
+binding = "SITES_KV"
+id = "fbe4dcc4cca5449bb6775a352b1e6013"
+preview_id = "dummy_preview_id_for_github_actions"
